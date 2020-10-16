@@ -85,7 +85,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <p></p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
-<img src="https://www.nanocell.org.br/wp-content/uploads/2015/04/redes_neurais-2.png" width="1070"/>
+<img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1070"/>
 <p></p>
 
 <h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
