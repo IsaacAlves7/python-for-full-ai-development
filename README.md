@@ -1,6 +1,6 @@
 # Python full AI programming
 
-<p>🐍🌳🧠✨❇️🔀🤖🧬💹📉📈📊 It's a repository of full AI (Artificial Intelligence) programming using the Python language.<br> 
+<p>🐍🌳🧠💹🧬📉📈📊 It's a repository of full AI (Artificial Intelligence) programming using the Python language.<br> 
   
 OBS: Recomendo repetir as mesmas atividades, fazer os exercícios e executar os códigos na sua própria máquina. Além disso, esse é um repositório somente focado em IA, caso precise aprender a Linguagem de Programação Python e os seus paradigmas acesse o link abaixo para o repositório de programação Python.
 </p>
@@ -67,7 +67,16 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
 </ul>
 
-
+<h3>💹 Sistemas Nebulosos (Lógica Fuzzy)</h3>
+<ul>
+  <li>Lidam com conhecimento não simbolicamente representado.</li>
+  <li>Levemente inspirados no comportamento do cérebro.</li>  
+  <li>Processam a informação de forma paralela e distribuída.</li> 
+  <li>Aprendem com treinamento.</li> 
+  <li>Generalizam o conhecimento aprendido.</li> 
+  <li>Por não lidarem com conhecimento simbólico, não justificam decisões.</li>   
+  <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
+</ul>
 
 
 
