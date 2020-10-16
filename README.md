@@ -44,7 +44,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </p>
 
 <h3>Alguns paradigmas</h3>
-
+<p>Ao abordar tais questões, os diversos paradigmas, atualmente pesquisados, obtém mais ou menos sucesso, de acordo com suas <b>características</b>, <b>virtudes</b> e <b>limitações</b>. Uma abordagem ligeira desses paradigmas, que serão estudados melhor ao longo da disciplina, é feita a seguir.</p>
 
 
 
