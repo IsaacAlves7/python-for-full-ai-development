@@ -43,7 +43,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 É provavelmente mais fácil que alguém que tenha uma habilidade mental de realizar cálculos aritméticos complexos seja considerado "inteligente", do que supor inteligente alguém que pode realizar tarefas cotidianas e comezinhas como falar, reconhecer o rosto de uma pessoa, rir de algo engraçado ou decidir quando deve atravessar uma rua com tráfego intenso.
 </p>
 
-<h2>Alguns paradigmas</h2>
+<h2>Alguns paradigmas da Inteligência Artificial</h2>
 <p>Ao abordar tais questões, os diversos paradigmas, atualmente pesquisados, obtém mais ou menos sucesso, de acordo com suas <b>características</b>, <b>virtudes</b> e <b>limitações</b>. Uma abordagem ligeira desses paradigmas, que serão estudados melhor ao longo da disciplina, é feita a seguir:</p>
 
 <h3>🌳 Sistemas baseados em conhecimento</h3>
