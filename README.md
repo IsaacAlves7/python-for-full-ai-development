@@ -60,10 +60,11 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <ul>
   <li>Lidam com conhecimento não simbolicamente representado.</li>
   <li>Levemente inspirados no comportamento do cérebro.</li>  
-  <li>Examinam o seu raciocínio.</li> 
-  <li>Podem justificar conclusões.</li> 
-  <li>Atuam mesmo com conhecimento incompleto ou impreciso.</li> 
-  <li>Principais aplicações: jogos, configurações de produtos, emissão de propostas, telemarketing, distribuição, concessão de crédito, gestão de carteira, orientação a clientes, seleção, orçamento, planejamento estratégico, alocação de recursos, diagnóstico, terapêutica, sistemas tutoriais e psico-testes.</li>   
+  <li>Processam a informação de forma paralela e distribuída.</li> 
+  <li>Aprendem com treinamento.</li> 
+  <li>Generalizam o conhecimento aprendido.</li> 
+  <li>Por não lidarem com conhecimento simbólico, não justificam decisões.</li>   
+  <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
 </ul>
 
 
