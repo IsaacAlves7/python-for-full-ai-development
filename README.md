@@ -78,7 +78,16 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
 </ul>
 
-
+<h3>🧬 Computação Evolucionária (Algoritmos Genéticos)</h3>
+<ul>
+  <li>Modelam os modos imprecisos do raciocínio aproximado que influenciam na habilidade humana de tomar decisões.</li>
+  <li>Realizam o raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos.</li>  
+  <li>Processam a informação de forma paralela e distribuída.</li> 
+  <li>Aprendem com treinamento.</li> 
+  <li>Generalizam o conhecimento aprendido.</li> 
+  <li>Por não lidarem com conhecimento simbólico, não justificam decisões.</li>   
+  <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
+</ul>
 
 
 
