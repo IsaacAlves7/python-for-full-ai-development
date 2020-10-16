@@ -89,9 +89,10 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1070"/>
 <p></p>
+<img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1070"/>
 
 <h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
-<img src="https://globalriskinstitute.org/wp-content/uploads/2019/08/web-banner-1.jpg" width="1070"/>
+<img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
 <p></p>
 
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
