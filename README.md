@@ -80,7 +80,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li>Algumas aplicações: problemas gerais de roteamento, controle de sistemas dinâmicos, indução e otimização de bases de regras, encontrar topologias conexionistas, simulação de modelos biológicos, evolução interativa de imagens.</li>   
 </ul>
 
-<h2>🌳 Sistemas baseados em Conhecimento 🌳</h2>
+<h2>🌳 Sistemas baseados em Conhecimento 🎄</h2>
 <p></p>
 
 
