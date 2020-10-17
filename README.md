@@ -82,6 +82,8 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <p>Em suma, o <b>conhecimento</b> é a base para o desenvolvimento de modelos que envolvam <b>inteligência</b>. Como todos os paradigmas citados serão abordados ao longo da disciplina, a abordagem de cada técnica não será extensa nem profunda, para que todas elas possam ser abordadas e possamos as diferentes inspirações e aplicações.</p>
 
+<hr>
+
 <h2>🌳 Sistemas baseados em Conhecimento 🎄</h2>
 <img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
 <p>A primeira técnica que estudaremos, aplica-se a uma <em>classe de problemas</em> que será definida mais à frente e que é genericamente chamada de <b>Sistemas de Produção</b>.
