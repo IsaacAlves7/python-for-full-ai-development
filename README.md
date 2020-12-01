@@ -91,7 +91,7 @@ A primeira técnica que estudaremos, aplica-se a uma <em>classe de problemas</em
 O tipo de problema que pode ser abordado com essa técnica deve possuir três características:
 <ol>
 <li>A primeira delas é que deve ser possível <em>representar e reconhecer as situações estáticas do problema</em>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <em>evoluírem em uma sequência de estados distintos e identificáveis</em>.</p>
-
+<h3>1. Exemplo: 🧰♚♛♜♝♞♟ Xadrez ♙♘♗♕♖♔🦾</h3>
 <p>Por exemplo, os problemas que envolvem <em>jogos de tabuleiro</em>, em geral possuem essa característica. Em um jogo de <b>xadrez</b>, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
 <br>&nbsp;
 <img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
@@ -134,7 +134,7 @@ Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b,
   
 Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>:
 
-<h3>🧰🏺 Jarros d'água 🏺🦾</h3>
+<h3>2. Exemplo: 🧰🏺 Jarros d'água 🏺🦾</h3>
 <div align="center"><img src="https://media.istockphoto.com/vectors/ancient-pottery-vase-jar-amphora-made-in-cartoon-flat-style-vector-id809864684?k=6&m=809864684&s=170667a&w=0&h=LIzEbFmYisGVDMypFKZVhgcoRqDthflZqwLoBn9T1PA=" height="270"/><img src="https://media.istockphoto.com/vectors/ancient-pottery-vase-jar-amphora-made-in-cartoon-flat-style-vector-id809864684?k=6&m=809864684&s=170667a&w=0&h=LIzEbFmYisGVDMypFKZVhgcoRqDthflZqwLoBn9T1PA=" height=270"/></div>
 <p>Considere <b>dois jarros opacos</b>, nos quais não é possível observar o conteúdo. Um <strong>jarro A</strong> tem capacidade para 4 litros e um <strong>jarro B</strong> tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no <strong>jarro A</strong>. Para tanto, temos as seguintes operações disponíveis: <em>encher</em> totalmente um dos jarros; <em>esvaziar</em> totalmente um dos jarros; e, <em>passar</em> o conteúdo de um jarro para o outro.<br>
 
