@@ -162,8 +162,8 @@ Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicaç�
 <p>A estratégia mais simples possível é a <b>busca em profundidade</b>. Este método procura uma solução qualquer (que não é garantidamente a melhor) e encontra-a ou não (o método não garante que uma solução será encontrada). 
 
 A estratégia consiste em expandir os estados a partir do estado inicial, aplicando qualquer um dos possíveis operadores aplicáveis àquele estado. A escolha do operador pode ser aleatória ou seguir uma sequência arbitrária de testes de possibilidade de aplicação dos operadores. Caso não haja operadores possíveis de aplicar ou caso todos os estados gerados já constem da árvore, o método fracassa. O método obtém sucesso apenas se atinge um estado final.</p>
-
-
+<div align="center"><img src=""/></div>
+<p align="center"><em><strong>Figura 1.3:</strong> Uma busca em profundidade com backtracking.</em></p>
 
 
 
