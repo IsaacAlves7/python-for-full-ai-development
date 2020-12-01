@@ -96,7 +96,7 @@ O tipo de problema que pode ser abordado com essa técnica deve possuir três ca
 <br>&nbsp;
 <img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
 
-O <i>jogo</i> em si é uma sucessão de <b>estados distintos, reconhecíveis e identificáveis</b>.</li> 
+O jogo em si é uma sucessão de <i>estados distintos, reconhecíveis e identificáveis</i>.</li> 
 
 <li>Além de estados, esse tipo de problema também se caracteriza por ter “<b>operações</b>” conhecidas que <em>ocasionam as mudanças de estado</em>. Nos jogos de tabuleiro, por exemplo, as operações são as movimentações possíveis das peças, impostas pelas regras do jogo.</li>
 
