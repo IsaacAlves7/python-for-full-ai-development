@@ -124,7 +124,7 @@ Se pudermos escolher entre diversos operadores em uma determinada situação, en
 A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.</p>
 
 <h3>🧰🅰️➡️ Representação dos Sistemas de Produção 🅱️➡️🦾</h3>
-<div align="center"><img src=""/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/100785707-cc235500-33ef-11eb-88f5-0de1f2fbd3c8.jpg"/></div>
 <blockquote>É possível representar um <i>Sistema de Produção</i> através de <b>Grafos de Estado</b>.</blockquote>
 <p>Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
 
