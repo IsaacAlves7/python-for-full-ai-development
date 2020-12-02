@@ -176,6 +176,7 @@ Por causa da volta ao nó pai, este método também é conhecido como <b>backtra
 
 Este método sempre encontra o caminho, caso ele exista. Como expande um nível de cada vez, o método também encontra o caminho mais curto (em número de transições) entre a raiz e o estado final. Entretanto, a quantidade de possibilidades avaliadas é muito grande, o que torna o método computacionalmente intenso.</p>
 <h2>💵🅰️ Grafos com custo 🅱️💵</h2>
+<div center><img src="https://user-images.githubusercontent.com/61624336/100895588-7eb0f180-349c-11eb-823b-c9a5780b76e2.jpg"/></div>
 <p>Em alguns tipos de problemas, o caminho de um estado para o próximo possui um custo associado. Na pratica, todos os problemas importantes de roteamento possuem custos envolvidos. É o caso de rotas de transporte de cargas, rotas de distribuição de energia elétrica, rotas de encaminhamento de ligações telefônicas, etc. 
 </p>
 
