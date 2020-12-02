@@ -216,9 +216,8 @@ Esta estratégia equivale, em algum sentido, à busca irrevogável, na medida qu
 
 Assim, o caminho ACB deve ser desprezado. Também o nó D já aparece em outro ramo, de forma que comparando o custo do caminho AD (=6) com o custo do caminho ACD (4+7=11), desprezamos este último. Note também que o nó de destino (E) já está na árvore, mas devemos continuar o processamento até que todos os nós estejam fechados.</p>
 
-
-
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/100943163-79bf6280-34db-11eb-9c0d-45b64241438c.jpg"/></div>
+<p align="center"><em><strong>Figura 1.9:</strong> Passo 4.</em></p>
 
 
 
