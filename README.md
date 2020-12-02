@@ -195,6 +195,8 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
   <li><strong>ACDE</strong> – custo: 4+7+4 = 15</li>  
   <li><strong>ADE</strong> – custo: 6+4 = 10</li>  
 </ul>
+
+<h2>🔎😋 Busca gulosa ou busca pelo vizinho mais próximo 😍🔍</h2>
 <p>Uma estratégia possível, embora bastante simplória, é a <b>busca pelo vizinho mais próximo</b> ou <b>busca gulosa</b>. Neste caso, escolhemos a cada passo o vizinho ainda não visitado que apresente o menor custo (não devemos repetir cidades, sob o risco de introduzir ciclos, como nas buscas não ponderadas por custos).
 
 Esta estratégia equivale, em algum sentido, à busca irrevogável, na medida que não garante encontrar um caminho, muito menos o de menor custo. No exemplo anterior, seguindo esta estratégia, a rota escolhida seria ABCDE, o que representaria um custo de 3+5+7+4=19. Como pode ser visto, comparando com o custo apurado para os outros caminhos, este caminho é pior que todos os acima sugeridos. Logo, esta não é uma boa estratégia.</p>
