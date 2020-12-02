@@ -205,6 +205,7 @@ Esta estratégia equivale, em algum sentido, à busca irrevogável, na medida qu
 <h2>🔎 Busca ordenada ou busca pelo caminho de soma mínima (algoritmo de Dijikstra) 🧮</h2>
 <p>Uma outra estratégia é guardar a soma do custo de cada caminho e procurar a cada passo o caminho que implicará na menor soma. Esta estratégia é parecida com a <b>busca em largura</b> ou <b>algoritmo de Dijikstra</b>. A diferença é que, caso um nó deva ser colocado na árvore, mas já apareça em algum outro caminho (outro ramo diferente deste), deve haver uma comparação entre os custos totais destes dois nós e eliminado o de maior custo. Analisemos passo a passo a aplicação do algoritmo para o grafo anteriormente apresentado (A→E):</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100933996-e3844000-34cc-11eb-8c3a-80653e4aaa9e.jpg"/></div>
+<p align="center"><em><strong>Figura 1.6:</strong> Passo 1.</em></p>
 <p>Após este passo, o custo total de cada caminho é: AB=3, AC=4 e AD=6. Escolhendo o de menor custo total (AB), expandimos um nível.</p>
 
 
