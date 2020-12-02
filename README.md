@@ -188,14 +188,16 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
 <p align="center"><em><strong>figura 1.5:</strong> Uma configuração de grafo com custos</em></p>
 <p>Os problemas de encontrar uma rota de um ponto a outro são uma simplificação do problema mais genérico conhecido como o <b>“problema do caixeiro viajante”</b>. No problema do caixeiro viajante original, temos um conjunto de cidades ligadas por estradas, que possuem um <b>custo</b> de ligação entre elas e se deseja percorrer todas as cidades ao menor custo possível sem repetir nenhuma cidade. A figura exibe uma configuração possível para essa interligação entre cidades, nas quais as cidades são os <b>vértices do grafo</b> e as ligações entre elas são as <b>arestas do grafo</b>.</p>
 
-<p>Na versão mais simplificada, útil para um problema de roteamento, o objetivo é levar o caixeiro de um ponto determinado a outro, ao menor custo possível. Se quisermos ir da cidade A até a cidade E, temos custos diferentes para cada caminho. Alguns desses custos são:</p>
+<p>Na versão mais simplificada, útil para um problema de roteamento, o objetivo é levar o caixeiro de um ponto determinado a outro, ao menor custo possível. Se quisermos ir da <em>cidade A</em> até a <em>cidade E</em>, temos custos diferentes para cada caminho. Alguns desses custos são:</p>
 <ul>
   <li><strong>ABCE</strong> – custo: 3+5+8 = 16 </li>
   <li><strong>ACE</strong> – custo: 4+8 = 12</li>
   <li><strong>ACDE</strong> – custo: 4+7+4 = 15</li>  
   <li><strong>ADE</strong> – custo: 6+4 = 10</li>  
 </ul>
-<p>Uma estratégia possível, embora bastante simplória, é a <b>busca pelo vizinho mais próximo</b> ou <b>busca gulosa</b>. Neste caso, escolhemos a cada passo o vizinho ainda não visitado.</p>
+<p>Uma estratégia possível, embora bastante simplória, é a <b>busca pelo vizinho mais próximo</b> ou <b>busca gulosa</b>. Neste caso, escolhemos a cada passo o vizinho ainda não visitado que apresente o menor custo (não devemos repetir cidades, sob o risco de introduzir ciclos, como nas buscas não ponderadas por custos).
+
+Esta estratégia equivale, em algum sentido, à busca irrevogável, na medida que não garante encontrar um caminho, muito menos o de menor custo. No exemplo anterior, seguindo esta estratégia, a rota escolhida seria ABCDE, o que representaria um custo de 3+5+7+4=19. Como pode ser visto, comparando com o custo apurado para os outros caminhos, este caminho é pior que todos os acima sugeridos. Logo, esta não é uma boa estratégia.</p>
 
 
 
