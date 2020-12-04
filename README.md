@@ -237,8 +237,9 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 ### Exemplo: 🧠🐺 Cachorro Thor 🦴💡
 <div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
 <p align="center"><strong>Thor é um cachorro</strong></p>
-
-
+<p>Este fato pode ser representado em um formalismo lógico como:
+<div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
+<p align="center"><strong>cachorro Thor</strong></p>
 
 
 
