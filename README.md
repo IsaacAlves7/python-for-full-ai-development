@@ -250,8 +250,8 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
 <p align="center"><strong>5 - Thor tem rabo</strong></p>
 <p>Este novo fato, pode ser considerado agora, justamente com os demais conhecimentos existentes para produzir novas inferências, ou seja, gerar novos fatos.</p>
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/101212856-2cb4cb00-3658-11eb-9746-1ed7602e850d.jpg"/></div>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/101213527-47d40a80-3659-11eb-8faa-86a53413755a.jpg"/></div>
+<p></p>
 
 
 
