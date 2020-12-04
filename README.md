@@ -221,7 +221,9 @@ Assim, o caminho ACB deve ser desprezado. Também o nó D já aparece em outro r
 <p>Tanto o nó E como o nó C já aparece na lista. Para o nó C, temos que o caminho ADC tem custo 13 e o caminho AC tem custo 4. Logo, desprezamos C como filho de D.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/101107170-7d70e900-35b0-11eb-81cf-e0a45d0114f1.jpg"/></div>
 <p align="center"><em><strong>Figura 1.10:</strong> Passo 5.</em></p>
-<p>Já o caminho ACE tem custo 12, enquanto que o caminho ADE tem custo 10. Desprezamos ACE. Logo:</p>
+<p>Já o caminho ACE tem custo 12, enquanto que o caminho ADE tem custo 10. Desprezamos ACE. Logo:
+
+Agora resta como aberto apenas o nó E. Como ele é terminal, podemos parar o processo, pois qualquer caminho dele derivado será maior que o caminho até ele, haja vista que o custo sempre é positivo. O caminho encontrado (ADE) é o caminho ótimo (de menor custo). Para encontrar este caminho, o algoritmo fechou 2 nós fora do caminho ótimo (B e C) e 3 no caminho ótimo (A, D e E).</p>
 
 
 
