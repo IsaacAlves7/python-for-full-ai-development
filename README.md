@@ -436,7 +436,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 <p></p>
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
 <h1>🧠 Machine Learning 🤖</h1>
-<img src="" width="1700"/>
+<img src="https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/07/sb-blog-what-is-mle.png" width="1700"/>
 <h1>🧠 Deep Learning 👤</h1>
 <img src="https://neofeed.com.br/wp-content/uploads/2019/12/inteligencia-artificial-lado-obscuro.jpg" width="1700"/>
 
