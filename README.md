@@ -270,7 +270,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 <p>Por exemplo, considere que temos os seguintes conhecimentos:</p>
 <h4>Regra 1:</h4>
 <ul>
-  <li><b>Regra 1:</b>Se a temperatura ambiente está acima de 35 graus. Então a atmosfera está úmida.</li>
+  <li><b>Regra 1:</b> Se a temperatura ambiente está acima de 35 graus. Então a atmosfera está úmida.</li>
 </ul>
 
 
