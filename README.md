@@ -273,10 +273,20 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
   <li><b>Regra 2:</b> Se a umidade relativa do ar é maior que 75%. Então a atmosfera está úmida.</li>
   <li><b>Regra 3:</b> Se o tempo está quente e a atmosfera está úmida.</li>
 </ul>
-
-
-
-
+<p>Então é provável que se formem tempestades. Considere ainda que conhecemos os seguintes fatos:</p>
+<ul>
+  <li><b>Fato 1:</b> A temperatura ambiente é de 37 graus.</li>
+  <li><b>Fato 2:</b> A umidade relativa do ar é de 81%.</li>
+</ul>
+<p>As regras 1 e 2 podem, a partir deste fatos, concluir novos fatos:
+<ul>
+  <li><b>Fato 3:</b> O tempo está quente (da regra 1).</li>
+  <li><b>Fato 4:</b> A atmosfera está úmida (da regra 2).</li>
+</ul>
+<p>Os fatos 3 e 4 satisfazem as premissas da regra 3, levando a outro fato:</p>
+<ul>
+  <li><b>Fato 5:</b> É provável que se formem tempestades.</li>
+</ul>
 
 
 
