@@ -288,10 +288,11 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
   <li><b>Fato 5:</b> É provável que se formem tempestades.</li>
 </ul>
 
-## ♟️ Estratégia de inferência 📤
-<p></p>
+## ♟️ Estratégias de inferência 📤
+<p>A forma como percorremos as regras, produzindo as inferências, isto é, a escolha de quais regras examinar e ativar, pode obedecer a duas abordagens básicas:</p>
 
-
+### ♟️ Estratégia dirigida a dados 🎲
+<p>Na estratégia dirigida a dados (<b>forward chain</b>), acionam-se todas as regras que possam ser acionadas a partir dos dados</p>
 
 
 
