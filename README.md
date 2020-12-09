@@ -160,7 +160,7 @@ Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que o
 <p align="center"><em><strong>Figura 1.2:</strong> Um grafo com alguns estados e transições do problema das jarras.</em></p>
 <blockquote><strong>⚠️ Atenção!</strong> Em um <b>grafo de estados</b> pode haver ciclos de forma que operações sucessivas causem retorno a um estado anterior. Essa situação é indesejada, como indicado na parte mais de baixo da figura 1.2, na qual a aplicação sucessiva dos operadores R1 e R3 causou o retorno ao estado inicial. </blockquote>
 <h2>🧰🔎 Definição de uma estratégia ou método de busca 🔍🦾</h2>
-<p>O objetivo em um <em>Sistema de Produção</em> é obter uma seqüência de operadores que levem um problema do estado inicial a um estado final. A forma sistemática de percorrer o grafo à procura desta seqüência, é chamada de <b>Método ou Estratégia de Busca</b>. Um Método de Busca constrói uma <b>Árvore de Busca</b>, na qual a raiz é o estado inicial e os nós filhos são obtidos pela aplicação sucessiva dos operadores.
+<p>O objetivo em um <em>Sistema de Produção</em> é obter uma sequência de operadores que levem um problema do estado inicial a um estado final. A forma sistemática de percorrer o grafo à procura desta seqüência, é chamada de <b>Método ou Estratégia de Busca</b>. Um Método de Busca constrói uma <b>Árvore de Busca</b>, na qual a raiz é o estado inicial e os nós filhos são obtidos pela aplicação sucessiva dos operadores.
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/></div>
 Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicação de um operador sobre um determinado estado leve a outro estado que já está na árvore, então este novo estado deve ser descartado (não deve ser incluído na árvore). Isto equivale a dizer que este operador não é aplicável a este estado neste ramo especifico da árvore.</p>
 
@@ -292,10 +292,10 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 <p>A forma como percorremos as regras, produzindo as inferências, isto é, a escolha de quais regras examinar e ativar, pode obedecer a duas abordagens básicas:</p>
 
 ### ♟️ Estratégia dirigida a dados 🎲
-<p>Na estratégia dirigida a dados (<b>forward chain</b>), acionam-se todas as regras que possam ser acionadas a partir dos dados</p>
+<p>Na estratégia dirigida a dados (<b>forward chain</b>), acionam-se todas as regras que possam ser acionadas a partir dos dados (fatos) conhecidos.</p>
 
-
-
+### ♟️ Estratégia dirigida a objetos 🪀
+<p>Na estratégia dirigida a objetivos (<b>backward chain</b>), aciona-se somente as regras que possuam na conclusão algum dos objetivos que procuramos. Caso a premissa da regra que desejamos acionar seja desconhecida, estabelecemos esta premissa como o novo objetivo e passamos a buscar regras que a contenha na parte da conclusão. Assim, o objetivo original é provisoriamente abandonado e será retomado (através do acionamento da regra abandonada) quando a premissa necessária à obtenção do objetivo original tenha sido encontrada.</p>
 
 
 
