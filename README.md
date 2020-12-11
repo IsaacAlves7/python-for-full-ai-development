@@ -309,7 +309,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
   O que desejamos saber é: "Qual a tendência da bolsa de valores?"</p>
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/101846230-4d38c580-3b2f-11eb-8dab-cd610df6415a.jpg)
-<em align="center"><strong>Figura 1:</strong> Estratégia de busca orientada a dados</em>
+<div align="center"><em><strong>Figura 1:</strong> Estratégia de busca orientada a dados</em></div>
 
 
 
