@@ -308,6 +308,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
   Fato 1: a cotação do Dólar está baixa.
   O que desejamos saber é: "Qual a tendência da bolsa de valores?"</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/101846230-4d38c580-3b2f-11eb-8dab-cd610df6415a.jpg)
 
 
 
