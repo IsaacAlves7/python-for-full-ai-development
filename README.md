@@ -326,11 +326,12 @@ O que acontece quando não é mais possível encontrar regras que gerem o conhec
 
 <p>Esta estratégia acabou gerando o aparecimento de ambientes de desenvolvimento de sistemas especialista em que há algum tipo de editor e sintaxe para se editar a base de conhecimentos e estabelecer os fatos, acoplado a um motor de inferências para realizar as buscas.
 
-Tais ambientes, denominados de Shells de Sistemas Especialistas, permitem que o usuário desenvolva sua própria base de conhecimentos, de uma forma mais fácil e rápida. Alguns destes sistemas possuem ainda tradutores de código para alguma linguagem procedimental (C, por exemplo), permitindo que o sistema, após ter sido depurado, seja integrado com o restante do código que tenha sido desenvolvido de forma tradicional.
+Tais ambientes, denominados de Shells de Sistemas Especialistas, permitem que o usuário desenvolva sua própria base de conhecimentos, de uma forma mais fácil e rápida. Alguns destes sistemas possuem ainda tradutores de código para alguma linguagem procedimental (C, por exemplo), permitindo que o sistema, após ter sido depurado, seja integrado com o restante do código que tenha sido desenvolvido de forma tradicional./p>
 
-Esta estratégia acabou gerando o aparecimento de ambientes de desenvolvimento de sistemas especialista em que há algum tipo de editor e sintaxe para se editar a base de conhecimentos e estabelecer os fatos, acoplado a um motor de inferências para realizar as buscas.</p>
-
-
+## 🤔 Lidando com incertezas 🤨
+<ol>
+  <li>Muitas das decisões que tomamos, são baseadas em algum cálculo da probabilidade de acerto, dadas as incertezas sobre os fatos conhecidos.</li>
+</ol>
 
 
 
