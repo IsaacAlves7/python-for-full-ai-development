@@ -341,6 +341,11 @@ Tais ambientes, denominados de Shells de Sistemas Especialistas, permitem que o 
     <td>Para operações de conjunção</td>
     <td>Para operações de disjunção</td>
   </tr>
+    <tr>
+    <td>O grau de confiança da premissa é multiplicado pelo grau de confiança da conclusão;</td>
+    <td>O grau de confiança de todas as premissas é multiplicado para obter o grau de confiança da premissa composta;</td>
+    <td>O grau de confiança de todas as premissas é somado e o resultado é subtraído da multiplicação dos mesmos graus de confiança, para obter o grau de confiança da premissa composta.</td>
+  </tr>
 </table>
 
 
