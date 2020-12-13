@@ -386,7 +386,7 @@ Em qualquer caso, a atribuição dos fatores de confiança relativos às implica
 ![gif](https://user-images.githubusercontent.com/61624336/101996380-a67c3280-3cb0-11eb-8d75-468a13602a40.gif)
 
 ## 💼 Sistemas de lógica Fuzzy 💹
-<p>Um sistema fuzzy lida com conjuntos fuzzy para fazer as tarefas de fuzzyficação dos valores escalares do mundo real, para que possam ser manipulados como entidades linguísticas e, após a aplicação de regras de inferência que são expressas com essas entidades linguísticas, mas lidam na verdade com os valores de pertinência, produzir através de um processo chamado defuzzyficação os valores escalares que se apliquem à saída para o mundo real. 
+<p>Um sistema fuzzy lida com conjuntos fuzzy para fazer as tarefas de fuzzyficação dos valores escalares do mundo real, para que possam ser manipulados como entidades linguísticas e, após a aplicação de regras de inferência que são expressas com essas entidades linguísticas, mas lidam na verdade com os valores de pertinência, produzir através de um processo chamado <b>defuzzyficação</b> os valores escalares que se apliquem à saída para o mundo real. 
 O modelo pode ser representado como na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102001311-73956700-3ccf-11eb-82c7-1fafe7858a55.jpg"/></div>
 
