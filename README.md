@@ -14,6 +14,7 @@
   <li>🧪 Data Science 📈</li>  
   <li>🤖 Machine Learning 📚</li>  
   <li>👤 Deep Learning 📚</li>
+  <li>🏁 Final Project 🤩</li>
 </ol>
 <hr>
 <h1 align="center" class="cap1">Cap 01: 🧠 AI - Artificial Intelligence 🖥️</h1>
