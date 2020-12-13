@@ -409,12 +409,12 @@ SE temperatura é morna E fluxo é médio ENTÃO gire a torneira um pouco à esq
 <blockquote>A defuzzificação combina os valores produzidos pelas diversas regras que tenham sido acionadas para uma determinada entrada, produzindo, a partir da combinação dos conjuntos fuzzy, uma saída escalar adequada.</blockquote>
 
 ## 💹 Nomenclatura 💹
-<p>Domínio do conjunto fuzzy é o universo de valores possíveis para um determinado conjunto. Para o conjunto fuzzy de pessoas altas, visto anteriormente o domínio é aberto (de 0 a +∞). Já para o conjunto de pessoas de meia idade o domínio é fechado (20 a 70). 
+<p><b>Domínio do conjunto fuzzy</b> é o universo de valores possíveis para um determinado conjunto. Para o conjunto fuzzy de pessoas altas, visto anteriormente o domínio é aberto (de 0 a +∞). Já para o conjunto de pessoas de meia idade o domínio é fechado (20 a 70). 
 
 Suporte do conjunto é o subconjunto do domínio para o qual o grau de pertinência é maior que zero. Para o conjunto de pessoas de meia idade, é o intervalo de 30 a 60. </p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102002391-df310180-3cda-11eb-801c-700d7930597d.jpg"/></div>
-<p>Conjunto Singleton é um conjunto fuzzy em que o suporte é um único ponto do domínio. Por exemplo, o conjunto de notas ideais em um domínio de 0 a 10, pode ser um conjunto Singleton em que apenas a nota 10 possui µ =1 e as demais possuem µ =0.
-Universo do discurso é o espaço completo de variação dos valores de pertinência para uma determinada variável. Por exemplo, para uma variável temperatura assim modelada:
+<p><b>Conjunto Singleton</b> é um conjunto fuzzy em que o suporte é um único ponto do domínio. Por exemplo, o conjunto de notas ideais em um domínio de 0 a 10, pode ser um conjunto Singleton em que apenas a nota 10 possui µ =1 e as demais possuem µ =0.
+  O <b>Universo do discurso</b> é o espaço completo de variação dos valores de pertinência para uma determinada variável. Por exemplo, para uma variável temperatura assim modelada:
 
 O universo do discurso é de 100 a 360 graus.</p>
 
