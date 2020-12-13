@@ -495,6 +495,16 @@ O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + �
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102021611-ac7d1c80-3d5f-11eb-93b5-9b03844a6977.jpg"/></div>
 <p>A variável de saída potência é modelada pelos valores linguísticos neg-big, neg-me, zero, pos-me e pos-hig. Seu universo do discurso é dado na figura.</p>
 
+<p>As regras do sistema de controle que calcula a potência trabalham com os valores linguísticos das variáveis do modelo e são do seguinte tipo:
+ 
+Se DISTÂNCIA = far e ÂNGULO = neg_small
+Então POTÊNCIA = pos_high
+Se DISTÂNCIA = medium e ÂNGULO = neg_small
+Então POTÊNCIA = pos_high
+Se DISTÂNCIA = medium e ÂNGULO = neg_big
+Então POTÊNCIA = pos_medium
+</p>
+
 
 
 
