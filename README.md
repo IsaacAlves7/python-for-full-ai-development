@@ -466,7 +466,7 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102017160-f1935580-3d43-11eb-9926-6feab9722ab4.jpg"/></div>
 
 ## 📖 Combinando regras acionadas 📖
-<p></p>
+<p>Caso haja um conjunto de regras e duas ou mais sejam acionadas, pode-se calcular o conjunto resultante da aplicação das diferentes regras, utilizando-se o método do máximo ou o método da soma dos conjuntos Fuzzy do consequente de cada regra, além de outras opções de combinação menos usadas. Por exemplo, utilizando-se o mínimo para a implicação e o máximo para a composição de duas regras do tipo:</p>
 
 
 
