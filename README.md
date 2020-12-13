@@ -465,8 +465,8 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 <p>O conjunto resultante da implicação toma as formas da figura para os casos de inferência pelo mínimo e pelo produto.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102017160-f1935580-3d43-11eb-9926-6feab9722ab4.jpg"/></div>
 
-
-
+## 📖 Combinando regras acionadas 📖
+<p></p>
 
 
 
