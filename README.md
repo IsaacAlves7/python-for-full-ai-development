@@ -474,7 +474,8 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 ## 📈 Defuzzificação 🔢
 <p>Um sistema Fuzzy possui entrada(s) escalar(es) e deve ser capaz de produzir uma saída também escalar. Após serem realizadas as inferências com as regras e após se haver determinado o conjunto Fuzzy resultante (conjunto Fuzzy de saída), deve-se encontrar um valor numérico (escalar) para a saída. A este processo chama-se <b>Defuzzificação</b> do conjunto de saída.
 
-
+## 📚 Métodos de Defuzzificação 📈
+<p>Existem métodos propostos por diversos autores. Dois dos mais usados são:</p>
 
 
 
