@@ -462,7 +462,7 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 <p>Usando o mínimo: µp→q (x,y) = min [µp(x), µq(y)]</p>
 <p>Usando o produto: µp→q (x,y) = µp(x)*µq(y)</p>
 
-
+<p>O conjunto resultante da implicação toma as formas da figura para os casos de inferência pelo mínimo e pelo produto.</p>
 
 
 
