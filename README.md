@@ -1,6 +1,6 @@
 # Python AI Development 📗🐍🌳🧠🔀🧬🤖👤📈
 <p>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</p>
-<blockquote><b>Obs</b>: Recomendo repetir as mesmas atividades, fazer os exercícios e executar os códigos na sua própria máquina. Além disso, esse é um repositório somente focado em IA, caso precise aprender a Linguagem de Programação Python e os seus paradigmas clique na imagem abaixo para o repositório de programação Python.</blockquote><br>
+<blockquote><b>Obs</b>: I recommend repetir as mesmas atividades, fazer os exercícios e executar os códigos na sua própria máquina. Além disso, esse é um repositório somente focado em IA, caso precise aprender a Linguagem de Programação Python e os seus paradigmas clique na imagem abaixo para o repositório de programação Python.</blockquote><br>
 <a href="https://github.com/IsaacAlves7/python-programming"><img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070" title="Clique na imagem para acessar o repositório de programação Python"/></a>
 
 <h2>Introduction - Overview about the Python AI 🐍🌳🧠🔀🧬🤖👤📈</h2>
@@ -42,7 +42,7 @@ Algumas possibilidades são:
   <li>Gabaritar uma prova com o pouco de conhecimento sobre a matéria?</li> 
   <li>Reconhecer o som de um objeto e saber distingui-lo?</li>   
   <li>Prever um acontecimento?</li>
-  <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Cantar? Aprender? Refletir? Repetir? Interagir? Executar?  Trabalhar? Informar? Solicitar? Acessar? Proteger? Ensinar? Reconhecer? Raciocinar? Ou ainda mais polêmico... Amar?</li>
+  <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Cantar? Aprender? Refletir? Repetir? Interagir? Executar?  Trabalhar? Informar? Solicitar? Acessar? Proteger? Ensinar? Reconhecer? Raciocinar? Recomendar? Ou ainda mais polêmico... Amar?</li>
 </ul>
 
 De uma forma geral, o termo “inteligência” é revestido de um glamour natural e que remete a coisas, originais, inovadoras ou difíceis de realizar pelo ser humano médio.
