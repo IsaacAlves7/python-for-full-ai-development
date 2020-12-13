@@ -510,8 +510,14 @@ Para o referido valor de distância (13 jardas), dois conjuntos possuem µ > 0 (
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102022993-3a113a00-3d69-11eb-8968-b9520d728b04.jpg"/></div>
 <p>Da mesma forma, para o ângulo (-45 graus), dois conjuntos possuem m>0 (observe que a linha vertical que parte do valor -45 também corta duas curvas de funções de pertinência). Neste caso, ângulo=neg_small com m=0,30 e ângulo=neg_big com m=0,70. Observe a figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102023114-02ef5880-3d6a-11eb-91b4-c3b65731419b.jpg"/></div>
-
-
+<p>Assim, para a primeira regra, 
+ 
+Se DISTÂNCIA = far e ÂNGULO = neg_small</br>
+Então POTÊNCIA = pos_high
+ 
+Temos, na premissa, µ=0,24 e µ=0,30. Para combinar estes valores com o operador lógico E existem, como vimos, diversos métodos. Um dos mais comuns é tomar o mínimo dos dois valores. Assim, o valor da combinação lógica será MIN (0,24; 0,30) = 0,24 e este será o grau de pertinência da premissa da regra. Usando para a inferência também o operador de mínimo, a conclusão da regra será acionada com um grau de pertinência de, no máximo, µ=0,24. 
+Entrando com o valor µ=0,24 no gráfico de funções da variável de saída potência, para o conjunto determinado pela regra (pos_high), temos o resultado da figura.</p>
+<div align="center"><img src=""/></div>
 
 
 
