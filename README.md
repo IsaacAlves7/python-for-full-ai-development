@@ -430,7 +430,7 @@ Se temperatura é alta E pressão é baixa então vazão é alta</p>
 
 <p>Para a <b>operação de complemento</b> (Ex: Se x NÃO é A então...), a forma de cálculo do antecedente, geralmente é: 1 - µA(x).</br>
 Para a União e a interseção, existem diferentes formas, propostas por diferentes autores, para realizar as operações, como mostra a tabela a seguir:</p>
-<img src="https://user-images.githubusercontent.com/61624336/102003141-43a38f00-3ce2-11eb-8ce0-da077f42b9b3.jpg"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102003141-43a38f00-3ce2-11eb-8ce0-da077f42b9b3.jpg"/></div>
 
 
 
