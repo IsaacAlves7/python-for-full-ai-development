@@ -559,22 +559,35 @@ Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que
 <p>Tomemos por exemplo a função f(x) = x sen (3 x) no intervalo -5<x<10, cujo gráfico encontra-se na figura 1. Sob o ponto de vista de maximização ela é unimodal pois, no intervalo considerado, ela possui um ponto de máximo para x = 8,91 no qual f(x) = 8,92.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102034373-a0fc1680-3d9c-11eb-9801-0c14ccd1bd18.jpg"/></div>
 <div align="center"><em><strong>Figura 1:</strong> Função mono-parametrizada unimodal: f(x) = x sen (3 x)</em></div>
+
 <p>Já uma função multimodal possui mais de um máximo global para um determinado intervalo. Tomemos, por exemplo, a função f(x) = sen (x/2) + cos (2x)/1,5 no intervalo -14<x<20, vista na figura 2. A função possui pontos de máximo em x = -9.42, x = 3 e x = 15,71. Nesses pontos temos f(x) = 1,66666..., que vem a ser o valor máximo que a função atinge nesse intervalo.</p>
 
 
 
-<!--
-<h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
-<img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
-<p></p>🧰♚♛♜♝♞♟ Xadrez ♙♘♗♕♖♔🦾
-<img src="https://user-images.githubusercontent.com/61624336/100897899-f5e78500-349e-11eb-8237-b700ba6afacb.png"/>
-### Imagem ilustrando um exemplo modelo de rede neural
-<img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
-<h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
-<h1>🧠 Machine Learning 🤖</h1>
-<img src="https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/07/sb-blog-what-is-mle.png" width="1700"/>
-<h1>🧠 Deep Learning 👤</h1>
-<img src="https://neofeed.com.br/wp-content/uploads/2019/12/inteligencia-artificial-lado-obscuro.jpg" width="1700"/>
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
