@@ -553,8 +553,8 @@ Todo problema de maximização pode ser transformado em um problema de minimiza�
 Quando a abordagem escolhida é estudar os problemas de otimização como problemas de minimização, o valor da função pode ser visto como um “custo” a ser minimizado.
 
 Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que esta possua, dentro de um determinado intervalo, vários pontos de mínimos ou máximos relativos, conhecidos como mínimos locais e máximos locais, havendo somente um ponto de mínimo global ou de máximo global no intervalo. Uma função desse tipo é chamada de <b>unimodal</b>.</p>
-
-
+<p>Tomemos por exemplo a função f(x) = x sen (3 x) no intervalo -5<x<10, cujo gráfico encontra-se na figura 1. Sob o ponto de vista de maximização ela é unimodal pois, no intervalo considerado, ela possui um ponto de máximo para x = 8,91 no qual f(x) = 8,92.</p>
+<em><strong>Figura 1:</strong> Função mono-parametrizada unimodal: f(x) = x sen (3 x)Figura 1: Função mono-parametrizada unimodal: f(x) = x sen (3 x)</em>
 
 
 
