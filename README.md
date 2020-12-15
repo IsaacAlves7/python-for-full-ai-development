@@ -574,7 +574,7 @@ Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que
 <p>A função que se deseja otimizar é conhecida como Função Objetivo e o intervalo em que se seja buscar uma solução é o Espaço de Busca. Para a função da figura 6.2 o espaço de busca por valores de x é o intervalo entre -14 e 20. 
 Os parâmetros da função podem ainda estar sujeitos a restrições expressas por meio de equações ou inequações, tais como:
 Minimizar f(x) = x2 + y2 + 4
-sujeito às restrições de: 2x - 3y < 5 e de: x + y = 7. 
+sujeito às restrições de: 2x - 3y < 5 e de: x + y = 7. <br />
  
 Quando a função objetivo e as funções das restrições possuem apenas relações lineares (operadores aritméticos de adição, subtração multiplicação e divisão), o problema é de Programação Linear. Caso, entretanto, haja algum outro operador nas funções, tais como exponenciação, logaritmos, expressões trigonométricas ou quaisquer outros operadores não lineares, o problema é de Programação não Linear.</p>
 <p>Os parâmetros da função objetivo podem ainda ser <b>contínuos</b> ou <b>discretos</b>.</p>
